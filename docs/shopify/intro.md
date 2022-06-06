@@ -6,8 +6,8 @@ slug: /shopify
 tag: shopify
 ---
 
-# 쇼피파이 개요
+# 개요
 
-Shopify.
+쇼피파이
 
 
